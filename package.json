@@ -1,8 +1,0 @@
-{
-    "name" : "myMEANapplication",
-    "version" : "1.0.0",
-    "dependencies" : {
-        "express" : "latest",
-        "gulp" : "latest"
-    }
-}
